@@ -1,6 +1,6 @@
 ---
-title: "Example Portfolio"
-author: "Carole Voulgaris"
+title: "Final Portfolio"
+author: "Alex Cardelle"
 date: "10/12/2021"
 output: 
   rmdformats::downcute
