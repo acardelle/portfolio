@@ -1,7 +1,7 @@
 ---
 title: "Final Portfolio"
 author: "Alex Cardelle"
-date: "10/12/2021"
+date: "10/18/2021"
 output: 
   rmdformats::downcute
 ---
@@ -37,7 +37,7 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map
 
-[![](thumbnails/Boston_interactive.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/inter_black.html){target="_blank"}
+[![](thumbnails/LGBT_interactive.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/inter_black.html){target="_blank"}
 
 ## Clockboard Map
 This map demonstrates the following skills:
