@@ -20,26 +20,43 @@ Other themes in the `rmdformats` package are `material`, `html_clean`, `html_doc
 
 Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
 
-* DONE Displaying multiple vector layers on the same map
-*  Calculating and displaying relationships among point and polygon layers based on distance
-* DONE Aggregating point data to a layer of polygons
-* DONE Calculating and displaying accessibility, based on travel time
+* Displaying multiple vector layers on the same map
+* Calculating and displaying relationships among point and polygon layers based on distance
+* Aggregating point data to a layer of polygons
+* Calculating and displaying accessibility, based on travel time
 * Converting between raster layers and vector layers
-* DONE Displaying raster data on a map
-* DONE Georeferencing a raster image
-* DONE Displaying data on an interactive map
+* Displaying raster data on a map
+* Georeferencing a raster image
+* Displaying data on an interactive map
 
-## Displaying Multiple Vector Layers
+# National-Level Map
 
-[![](thumbnails/cambridge_playgrounds.png)](https://acardelle.github.io/portfolio/fullsize/cambridge_playgrounds.pdf){target="_blank"}
-
-## Interactive Map
+## U.S. Same-Sex Households Map
 This interactive map demonstrates the following skills: 
 
 * Displaying data on an interactive map
 
 [![](thumbnails/LGBT_interactive.png)](https://acardelle.github.io/portfolio/fullsize/LGBT_interactive.html){target="_blank"}
 
+# Data Maps of U.S. Cities
+
+## Cambridge Map
+[![](thumbnails/cambridge_playgrounds.png)](https://acardelle.github.io/portfolio/fullsize/cambridge_playgrounds.pdf){target="_blank"}
+
+## Detroit Maps
+
+### Accessibility
+This map shows accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
+
+* Converting between raster layers and vector layers
+* Displaying multiple vector layers on the same map
+* Calculating and displaying accessibility, based on travel time
+* Displaying raster data on a map
+
+[![](thumbnails/Alex_3B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_3B.big.pdf){target="_blank"}
+
+### Accessibility Score Mapped Over a Raster Layer
+[![](thumbnails/Alex_4B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_4B_big.pdf){target="_blank"}
 ## Boston Map
 * Aggregating point data to a layer of polygons
 * Calculating and displaying relationships among point and polygon layers based on distance
@@ -52,19 +69,5 @@ This map demonstrates the following skills:
 * Georeferencing a raster image
 
 [![](thumbnails/philadelphia_small.png)](https://acardelle.github.io/portfolio/fullsize/Philadelphia_big.pdf){target="_blank"}
-
-# Maps of Detroit
-
-## Accessibility
-This map shows accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
-
-* Converting between raster layers and vector layers
-* Displaying multiple vector layers on the same map
-* Calculating and displaying accessibility, based on travel time
-* Displaying raster data on a map
-
-[![](thumbnails/Alex_3B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_3B.big.pdf){target="_blank"}
-
-[![](thumbnails/Alex_4B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_4B_big.pdf){target="_blank"}
 
 
