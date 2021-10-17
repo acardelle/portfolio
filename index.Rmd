@@ -53,7 +53,7 @@ This map shows accessibility based on a distance-decay function of the walking t
 * Calculating and displaying accessibility, based on travel time
 * Displaying raster data on a map
 
-[![](thumbnails/Alex_3B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_3B.big.pdf){target="_blank"}
+[![](thumbnails/Alex_3B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_3B_big.pdf){target="_blank"}
 
 ### Accessibility Score Mapped Over a Raster Layer
 [![](thumbnails/Alex_4B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_4B_big.pdf){target="_blank"}
