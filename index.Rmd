@@ -21,8 +21,8 @@ Other themes in the `rmdformats` package are `material`, `html_clean`, `html_doc
 Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
 
 * DONE Displaying multiple vector layers on the same map
-* Calculating and displaying relationships among point and polygon layers based on distance
-* Aggregating point data to a layer of polygons
+* DONE Calculating and displaying relationships among point and polygon layers based on distance
+* DONE Aggregating point data to a layer of polygons
 * DONE Calculating and displaying accessibility, based on travel time
 * Converting between raster layers and vector layers
 * DONE Displaying raster data on a map
@@ -39,6 +39,11 @@ This interactive map demonstrates the following skills:
 * Displaying data on an interactive map
 
 [![](thumbnails/LGBT_interactive.png)](https://acardelle.github.io/portfolio/fullsize/LGBT_interactive.html){target="_blank"}
+
+## Boston Map
+* Aggregating point data to a layer of polygons
+
+[![](thumbnails/Boston_ev_libraries.png)](https://acardelle.github.io/portfolio/fullsize/Boston_ev_libraries_big.pdf){target="_blank"}
 
 ## Philadelphia Map
 This map demonstrates the following skills:
