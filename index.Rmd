@@ -27,24 +27,23 @@ Your portfolio should demonstrate each of the following skills (not all of which
 * Converting between raster layers and vector layers
 * Displaying raster data on a map
 * Georeferencing a raster image
-* Displaying data on an interactive map
+* Displaying data on an interactive map DONE
 
-# Maps of Boston
-Here are two maps of Boston. I might include some text here about this set of maps.
+## Displaying Multiple Vector Layers
 
 ## Interactive Map
 This interactive map demonstrates the following skills: 
 
 * Displaying data on an interactive map
 
-[![](thumbnails/LGBT_interactive.png)](https://acardelle.github.io/portfolio_examples/fullsize/LGBT_interactive.html){target="_blank"}
+[![](thumbnails/LGBT_interactive.png)](https://acardelle.github.io/portfolio/fullsize/LGBT_interactive.html){target="_blank"}
 
-## Clockboard Map
+## Philadelphia Map
 This map demonstrates the following skills:
 
-* Aggregating point data to a layer of polygons
+* Georeferencing a raster image
 
-[![](thumbnails/clockboard.jpg)](https://c-voulgaris.github.io/portfolio_examples/fullsize/clockboard.pdf){target="_blank"}
+[![](thumbnails/philadelphia_small.png)](https://acardelle.github.io/portfolio/fullsize/Philadelphia_big.pdf){target="_blank"}
 
 # Maps of San Luis Obispo
 Here are two maps of San Luis Obispo, California. I might include some text here as well.
