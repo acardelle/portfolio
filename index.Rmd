@@ -12,13 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-This is an example of a portfolio that someone might assemble to demonstrate the skills they have developed in VIS 2128. I have created this page using RMarkdown. There are fancier tools out there for creating and hosting webpages, and you are welcome to use any of those if you like. The advantage of this approach is that you can create your webpage directly from RStudio.
+This portfolio contains work produced while studying as a `Master of Urban Planning` candidate at the `Harvard Graduate School of Design`.  
 
-This example uses the `downcute` theme, which is available if you install the `rmdformats` package. The themes in the `rmdformats` have a table of contents that only includes level-one headings.
 
-Other themes in the `rmdformats` package are `material`, `html_clean`, `html_docco`, `readthedown`, and `robobook`.  
-
-Your portfolio should demonstrate each of the following skills (not all of which are demonstrated in this example):
+This portfolio demonstrates each of the following skills gained through assignments under `VIS 2128: Spatial Analysis`:
 
 * Displaying multiple vector layers on the same map
 * Calculating and displaying relationships among point and polygon layers based on distance
@@ -28,6 +25,8 @@ Your portfolio should demonstrate each of the following skills (not all of which
 * Displaying raster data on a map
 * Georeferencing a raster image
 * Displaying data on an interactive map
+
+Unless otherwise noted, all work presented below is my own and was created using publicly-available data sources.
 
 # National-Level Map
 
@@ -36,30 +35,49 @@ This interactive map demonstrates the following skills:
 
 * Displaying data on an interactive map
 
+This map shows the spatial distribution of the U.S. population living in either a coupled opposite-sex or same-sex households. “Coupled” for this analysis means living in a household with either a married spouse or an unmarried partner present. All information was collected from the 2019 American Community Survey (ACS 2019) through the Census API at <a href="http://data.census.gov" class="uri">http://data.census.gov</a>.</p>
+<p><strong>Interactive Map</strong></p>
+
 [![](thumbnails/LGBT_interactive.png)](https://acardelle.github.io/portfolio/fullsize/LGBT_interactive.html){target="_blank"}
 
 # Data Maps of U.S. Cities
 
 ## Cambridge Map
+This map demonstrates the following skills:
+
+* Displaying multiple vector layers on the same map
+
+This map shows the locations of playgrounds throughout the city of Cambridge, Massachusetts plotted amongst the city's greenspace and divided by neighborhood ward.
+
 [![](thumbnails/cambridge_playgrounds.png)](https://acardelle.github.io/portfolio/fullsize/cambridge_playgrounds.pdf){target="_blank"}
 
 ## Detroit Maps
 
 ### Accessibility
-This map shows accessibility based on a distance-decay function of the walking time to the nearest transit stop. It demonstrates the following skills:
+This map demonstrates the following skills:
 
 * Converting between raster layers and vector layers
 * Displaying multiple vector layers on the same map
 * Calculating and displaying accessibility, based on travel time
 * Displaying raster data on a map
 
+These maps of Detroit, Michigan show the relative distance and accessibility of the city's libraries as reachable by bicycling. Data is from the City of Detroit. 
+
+This first map is an isochrone vector layer showing the number of libraries reacheable within a 20-minute bicycle ride.
+
 [![](thumbnails/Alex_3B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_3B_big.pdf){target="_blank"}
 
-### Accessibility Score Mapped Over a Raster Layer
+This next map takes the vector information from the first map and superimposes it over a raster layer showing Detroit's street network. Additionally, by using `r5rcore's` exponential decay travel time calculation, this map shows a relative accessibility 'score' for library access via bicycling.
+
 [![](thumbnails/Alex_4B.png)](https://acardelle.github.io/portfolio/fullsize/Alex_4B_big.pdf){target="_blank"}
+
 ## Boston Map
+This map demonstrates the following skills:
+
 * Aggregating point data to a layer of polygons
 * Calculating and displaying relationships among point and polygon layers based on distance
+
+This map of Boston, Massachusetts shows the placement of the city's publicly-accessible ev stations in relation to the city's libraries. 
 
 [![](thumbnails/Boston_ev_libraries.png)](https://acardelle.github.io/portfolio/fullsize/Boston_ev_libraries_big.pdf){target="_blank"}
 
@@ -67,6 +85,8 @@ This map shows accessibility based on a distance-decay function of the walking t
 This map demonstrates the following skills:
 
 * Georeferencing a raster image
+
+This map of Philadelphia, Pennsylvania shows the city's modern day neighborhoods and transit infrastructure superimposed over a GIS-georeferenced map of the city's historic environs around 1779.
 
 [![](thumbnails/philadelphia_small.png)](https://acardelle.github.io/portfolio/fullsize/Philadelphia_big.pdf){target="_blank"}
 
